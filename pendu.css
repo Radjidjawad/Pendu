@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: rgb(72, 170, 187);
+    font-family: 'Acme', sans-serif;
+}
+
+button {
+    height: 18%;
+    width: 12%;
+    font-family: 'Acme', sans-serif;
+}
+
+#answer {
+    padding-bottom: 2%;
+    padding-right: 4%;
+    margin-bottom: 6%;
+    text-align: center;
+}
+
+
+#win, #Indication, #Img {
+    font-size: x-large;
+}
+
+
